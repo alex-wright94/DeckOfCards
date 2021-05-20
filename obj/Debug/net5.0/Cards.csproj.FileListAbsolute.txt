@@ -1,0 +1,15 @@
+/Users/alexwright/Cards/bin/Debug/net5.0/Cards.deps.json
+/Users/alexwright/Cards/bin/Debug/net5.0/Cards.runtimeconfig.json
+/Users/alexwright/Cards/bin/Debug/net5.0/Cards.runtimeconfig.dev.json
+/Users/alexwright/Cards/bin/Debug/net5.0/Cards.dll
+/Users/alexwright/Cards/bin/Debug/net5.0/ref/Cards.dll
+/Users/alexwright/Cards/bin/Debug/net5.0/Cards.pdb
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.csprojAssemblyReference.cache
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.AssemblyInfoInputs.cache
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.AssemblyInfo.cs
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.csproj.CoreCompileInputs.cache
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.dll
+/Users/alexwright/Cards/obj/Debug/net5.0/ref/Cards.dll
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.pdb
+/Users/alexwright/Cards/obj/Debug/net5.0/Cards.genruntimeconfig.cache
